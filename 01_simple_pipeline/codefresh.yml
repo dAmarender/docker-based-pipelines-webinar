@@ -15,4 +15,4 @@ steps:
     commands:
       - echo "My Python version is"
       - python --version
-      - pip3 install .   
+      - pip3 install -U
