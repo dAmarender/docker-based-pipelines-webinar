@@ -16,3 +16,4 @@ steps:
       - echo "My Python version is"
       - python --version
       - pip3 install -U
+      - pip list -0
