@@ -15,4 +15,4 @@ steps:
     commands:
       - echo "My Python version is"
       - python --version
-      - sudo apt install python 3.11 .   
+      - python install .   
